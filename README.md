@@ -1,0 +1,1 @@
+# splash-screen-in-android
